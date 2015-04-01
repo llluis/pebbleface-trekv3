@@ -1,0 +1,203 @@
+{
+    "appKeys": {
+        "ampmsecs": 9,
+        "bluetoothvibe": 7,
+        "format": 2,
+        "hourlyvibe": 8,
+        "icon": 5,
+        "invert": 3,
+        "language": 1,
+        "status": 0,
+        "temperature": 4,
+        "weatherstatus": 6
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Little Gem Software / mereed",
+    "longName": "trekv3",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/mylcarsbg6sdk2 copy.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_000_010.png",
+                "name": "IMAGE_BATT_000_010",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_010_020.png",
+                "name": "IMAGE_BATT_010_020",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_020_030.png",
+                "name": "IMAGE_BATT_020_030",
+                "type": "png"
+            },
+            {
+                "file": "images/batt_charging.png",
+                "name": "IMAGE_BATT_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/bluetooth.png",
+                "name": "IMAGE_BLUETOOTH",
+                "type": "png"
+            },
+            {
+                "file": "images/no_bluetooth.png",
+                "name": "IMAGE_NO_BLUETOOTH",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/LCARS.ttf",
+                "name": "FONT_LCARS_68",
+                "type": "font"
+            },
+            {
+                "file": "fonts/LCARS.ttf",
+                "name": "FONT_LCARS_25",
+                "type": "font"
+            },
+            {
+                "file": "fonts/LCARS.ttf",
+                "name": "FONT_LCARS_20",
+                "type": "font"
+            },
+            {
+                "file": "images/BATT_030_040.png",
+                "name": "IMAGE_BATT_030_040",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_040_050.png",
+                "name": "IMAGE_BATT_040_050",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_050_060.png",
+                "name": "IMAGE_BATT_050_060",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_060_070.png",
+                "name": "IMAGE_BATT_060_070",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_070_080.png",
+                "name": "IMAGE_BATT_070_080",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_080_090.png",
+                "name": "IMAGE_BATT_080_090",
+                "type": "png"
+            },
+            {
+                "file": "images/BATT_090_100.png",
+                "name": "IMAGE_BATT_090_100",
+                "type": "png"
+            },
+            {
+                "file": "images/45.png",
+                "name": "NA",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "CLEAR_DAY",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png",
+                "name": "CLEAR_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png",
+                "name": "WINDY",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png",
+                "name": "COLD",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png",
+                "name": "PARTLY_CLOUDY_DAY",
+                "type": "png"
+            },
+            {
+                "file": "images/9.png",
+                "name": "PARTLY_CLOUDY_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/13.png",
+                "name": "HAZE",
+                "type": "png"
+            },
+            {
+                "file": "images/14.png",
+                "name": "CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/18.png",
+                "name": "RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/23.png",
+                "name": "SNOW",
+                "type": "png"
+            },
+            {
+                "file": "images/24.png",
+                "name": "HAIL",
+                "type": "png"
+            },
+            {
+                "file": "images/25.png",
+                "name": "CLOUDY",
+                "type": "png"
+            },
+            {
+                "file": "images/27.png",
+                "name": "STORM",
+                "type": "png"
+            },
+            {
+                "file": "images/FOG.png",
+                "name": "FOG",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon_lgs_watch.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "trekv3",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "1c60d404-55fd-4d60-9961-6dcdaf95b927",
+    "versionCode": 2,
+    "versionLabel": "3.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
